@@ -24,7 +24,7 @@
   ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
   # 📊 GitHub Stats
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arydiaihdahusnayainfe&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arydiaihdahusnayainfe&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br>
   ![](https://github-readme-stats.vercel.app/api?username=arydiaihdahusnayainfe&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=arydiaihdahusnayainfe&theme=midnight-purple&hide_border=false)
 
